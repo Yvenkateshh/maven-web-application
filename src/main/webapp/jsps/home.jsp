@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Venkatesh working in Cognizant</h1>
-<h1 align="center">  Venkatesh Teaching Real Time scnerios</h1>
+<h1 align="center">tffdVenkatesh Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
