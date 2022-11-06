@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Venkatesh working in Cognizant</h1>
+<h1 align="center">Venkatesh currently working in IBM</h1>
 <h1 align="center">Venkatesh Teaching Real Time scnerios</h1>
 <hr>
 <br>
